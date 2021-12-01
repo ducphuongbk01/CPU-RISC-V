@@ -1,0 +1,16 @@
+# Current time Mon Nov 29 18:44:15 2021
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 505e5fd2. Traceback:
+# 0    0x505e5fd2: 'Itk_ArchetypeInit + 0x4b92'
+# 1    0x506302f9: 'Itcl_EvalMemberCode + 0x1f9'
+# 2    0x50631441: 'Itcl_ExecMethod + 0x1c1'
+# 3    0x789839f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+

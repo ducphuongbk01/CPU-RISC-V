@@ -1,0 +1,129 @@
+E:/ModelSim/Pipeline/IMEM.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/IMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}} E:/ModelSim/Pipeline/Forwarding.v {2 {vlog -work work -stats=none E:/ModelSim/Pipeline/Forwarding.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Forwarding
+** Warning: E:/ModelSim/Pipeline/Forwarding.v(22): (vlog-2182) 'double_load_check' might be read before written in always_comb or always @* block.
+** Warning: E:/ModelSim/Pipeline/Forwarding.v(25): (vlog-2182) 'data_double_load' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	Forwarding
+
+} {} {}} E:/ModelSim/Pipeline/DMEM.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/DMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}} E:/ModelSim/Pipeline/register.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} E:/ModelSim/Pipeline/branch.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/branch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module branch
+
+Top level modules:
+	branch
+
+} {} {}} E:/ModelSim/Pipeline/MEM_WB.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/MEM_WB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} E:/ModelSim/Pipeline/riscV_ALU.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/riscV_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module riscV_ALU
+
+Top level modules:
+	riscV_ALU
+
+} {} {}} E:/ModelSim/Pipeline/ID_EX.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/ID_EX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} E:/ModelSim/Pipeline/PC_Plus_4.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/PC_Plus_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Plus_4
+
+Top level modules:
+	PC_Plus_4
+
+} {} {}} E:/ModelSim/Pipeline/EX_MEM.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/EX_MEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} E:/ModelSim/Pipeline/branch_Decision.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/branch_Decision.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module branch_Decision
+
+Top level modules:
+	branch_Decision
+
+} {} {}} E:/ModelSim/Pipeline/PC.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} E:/ModelSim/Pipeline/IF_ID.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/IF_ID.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} E:/ModelSim/Pipeline/mux2.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/mux2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} E:/ModelSim/Pipeline/Imm_Gen.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/Imm_Gen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Imm_Gen
+
+Top level modules:
+	Imm_Gen
+
+} {} {}} E:/ModelSim/Pipeline/Pipeline.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/Pipeline.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Pipeline
+
+Top level modules:
+	Pipeline
+
+} {} {}} E:/ModelSim/Pipeline/mux4.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/mux4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} E:/ModelSim/Pipeline/ROMControl.v {1 {vlog -work work -stats=none E:/ModelSim/Pipeline/ROMControl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROMControl
+
+Top level modules:
+	ROMControl
+
+} {} {}}

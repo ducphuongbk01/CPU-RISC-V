@@ -1,0 +1,365 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/ModelSim/Lab03
+vbranch
+Z0 !s110 1638188265
+!i10b 1
+!s100 M=hXmRR6d0CeC[hWii?fc1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8@jnj3zm;;FWg_Dd3>?ef2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/ModelSim/Single_Cycle
+w1633388272
+8E:/ModelSim/Single_Cycle/branch.v
+FE:/ModelSim/Single_Cycle/branch.v
+!i122 1240
+Z4 L0 1 44
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1638188265.000000
+!s107 E:/ModelSim/Single_Cycle/branch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/branch.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vclk_gen
+!s110 1636080262
+!i10b 1
+!s100 j3R`hW<gPb7z83fjk4bVh2
+R1
+Ih?6S6>gRZeSnlZ@i?dPdB3
+R2
+R3
+w1636075920
+Z9 8E:/ModelSim/Single_Cycle/test.v
+Z10 FE:/ModelSim/Single_Cycle/test.v
+!i122 253
+L0 3 6
+R5
+r1
+!s85 0
+31
+!s108 1636080262.000000
+Z11 !s107 E:/ModelSim/Single_Cycle/test.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/test.v|
+!i113 1
+R7
+R8
+vDMEM
+R0
+!i10b 1
+!s100 0=8aM[3F:6JSg46XHadIj0
+R1
+I975V?Df]7gF3:I`4`:OZ?2
+R2
+R3
+w1636856174
+8E:/ModelSim/Single_Cycle/DMEM.v
+FE:/ModelSim/Single_Cycle/DMEM.v
+!i122 1241
+L0 1 48
+R5
+r1
+!s85 0
+31
+R6
+!s107 E:/ModelSim/Single_Cycle/DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/DMEM.v|
+!i113 1
+R7
+R8
+n@d@m@e@m
+vIMEM
+Z13 !s110 1638188266
+!i10b 1
+!s100 hzU8Bz4K;fX0ckTS63X;C0
+R1
+IR@VX^oOf1>iPMml?I8h^B1
+R2
+R3
+w1636817192
+8E:/ModelSim/Single_Cycle/IMEM.v
+FE:/ModelSim/Single_Cycle/IMEM.v
+!i122 1242
+L0 1 23
+R5
+r1
+!s85 0
+31
+Z14 !s108 1638188266.000000
+!s107 E:/ModelSim/Single_Cycle/IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/IMEM.v|
+!i113 1
+R7
+R8
+n@i@m@e@m
+vImm_Gen
+R13
+!i10b 1
+!s100 aVi^7fJo3@_AD==15>aLT1
+R1
+IG23meF=iYYkgU@2cZ;VHz2
+R2
+R3
+w1633866674
+8E:/ModelSim/Single_Cycle/Imm_Gen.v
+FE:/ModelSim/Single_Cycle/Imm_Gen.v
+!i122 1243
+L0 1 47
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/ModelSim/Single_Cycle/Imm_Gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/Imm_Gen.v|
+!i113 1
+R7
+R8
+n@imm_@gen
+vmux2
+R13
+!i10b 1
+!s100 LzD;f24PVjH_PK0jMPJY02
+R1
+IaU7IgRL1jlS0fX@dJ69_c2
+R2
+R3
+w1633359034
+8E:/ModelSim/Single_Cycle/mux2.v
+FE:/ModelSim/Single_Cycle/mux2.v
+!i122 1244
+L0 1 14
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/ModelSim/Single_Cycle/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/mux2.v|
+!i113 1
+R7
+R8
+vmux4
+R13
+!i10b 1
+!s100 H=?H:_[@NCH<;0eE<HgMW1
+R1
+I?D5jX;N2?l]O4Lo9?Q]iV0
+R2
+R3
+w1636587364
+8E:/ModelSim/Single_Cycle/mux4.v
+FE:/ModelSim/Single_Cycle/mux4.v
+!i122 1245
+Z15 L0 1 21
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/ModelSim/Single_Cycle/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/mux4.v|
+!i113 1
+R7
+R8
+vPC
+R13
+!i10b 1
+!s100 4PVHNlEj@6n5^_;8ciaAb2
+R1
+IT;S<l_VE911E>PEZji=9]1
+R2
+R3
+w1636426692
+8E:/ModelSim/Single_Cycle/PC.v
+FE:/ModelSim/Single_Cycle/PC.v
+!i122 1246
+L0 1 16
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/ModelSim/Single_Cycle/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/PC.v|
+!i113 1
+R7
+R8
+n@p@c
+vPC_Plus_4
+Z16 !s110 1638188267
+!i10b 1
+!s100 E_78USVgdolc@DB>d]Ucz0
+R1
+ICI;E<;QO^l?CC_kMTWKKG1
+R2
+R3
+w1633869166
+8E:/ModelSim/Single_Cycle/PC_Plus_4.v
+FE:/ModelSim/Single_Cycle/PC_Plus_4.v
+!i122 1247
+L0 1 7
+R5
+r1
+!s85 0
+31
+R14
+!s107 E:/ModelSim/Single_Cycle/PC_Plus_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/PC_Plus_4.v|
+!i113 1
+R7
+R8
+n@p@c_@plus_4
+vregister
+R16
+!i10b 1
+!s100 T:ijgX3`lmeko1fdhN<0B1
+R1
+I@mdLb[R3@RDh0=9QW1h541
+R2
+R3
+w1636112612
+8E:/ModelSim/Single_Cycle/register.v
+FE:/ModelSim/Single_Cycle/register.v
+!i122 1248
+R4
+R5
+r1
+!s85 0
+31
+Z17 !s108 1638188267.000000
+!s107 E:/ModelSim/Single_Cycle/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/register.v|
+!i113 1
+R7
+R8
+vriscV_ALU
+R16
+!i10b 1
+!s100 4^BF134VNWVS@P1gOODGK3
+R1
+IfLdfVQ[;93:k@z@7kE6oU0
+R2
+R3
+w1636587910
+8E:/ModelSim/Single_Cycle/riscV_ALU.v
+FE:/ModelSim/Single_Cycle/riscV_ALU.v
+!i122 1249
+L0 1 29
+R5
+r1
+!s85 0
+31
+R17
+!s107 E:/ModelSim/Single_Cycle/riscV_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/riscV_ALU.v|
+!i113 1
+R7
+R8
+nrisc@v_@a@l@u
+vROMControl
+R16
+!i10b 1
+!s100 [Q49ORd2?bSdaSeT[^iGJ0
+R1
+IO[;BoPU6IhX5Y]Z^M_[141
+R2
+R3
+w1636592940
+8E:/ModelSim/Single_Cycle/ROMControl.v
+FE:/ModelSim/Single_Cycle/ROMControl.v
+!i122 1250
+L0 1 233
+R5
+r1
+!s85 0
+31
+R17
+!s107 E:/ModelSim/Single_Cycle/ROMControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/ROMControl.v|
+!i113 1
+R7
+R8
+n@r@o@m@control
+vSingle_Cycle
+R16
+!i10b 1
+!s100 95135DBBfIVHI7<5UY5EQ3
+R1
+IR:AhH^1MD`OdO:FZ:Xd>A2
+R2
+R3
+w1638188216
+8E:/ModelSim/Single_Cycle/Single_Cycle.v
+FE:/ModelSim/Single_Cycle/Single_Cycle.v
+!i122 1251
+L0 3 58
+R5
+r1
+!s85 0
+31
+R17
+!s107 E:/ModelSim/Single_Cycle/Single_Cycle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Single_Cycle/Single_Cycle.v|
+!i113 1
+R7
+R8
+n@single_@cycle
+vtb_IMEM
+!s110 1636082286
+!i10b 1
+!s100 U`S^a<hB75P_X]A^hL9>i1
+R1
+IMPHgWm_kV[VH:IJ8F1<m20
+R2
+R3
+w1636082278
+R9
+R10
+!i122 270
+R15
+R5
+r1
+!s85 0
+31
+!s108 1636082286.000000
+R11
+R12
+!i113 1
+R7
+R8
+ntb_@i@m@e@m
+vtb_mux2
+!s110 1638188268
+!i10b 1
+!s100 fd^nlPi:kEj8P7RYSTf4U2
+R1
+I:OQLi_>YHBCdCS@?VEkg82
+R2
+R3
+w1636000306
+R9
+R10
+!i122 1252
+L0 1 35
+R5
+r1
+!s85 0
+31
+R17
+R11
+R12
+!i113 1
+R7
+R8

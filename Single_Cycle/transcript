@@ -1,0 +1,435 @@
+# Compile of branch.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of Imm_Gen.v was successful.
+# Compile of mux2.v was successful.
+# Compile of mux4.v was successful.
+# Compile of PC.v was successful.
+# Compile of PC_Plus_4.v was successful.
+# Compile of register.v was successful.
+# Compile of riscV_ALU.v was successful.
+# Compile of ROMControl.v was successful.
+# Compile of Single_Cycle.v was successful.
+# Compile of test.v was successful.
+# 13 compiles, 0 failed with no errors.
+vsim work.Single_Cycle
+# vsim work.Single_Cycle 
+# Start time: 19:15:46 on Nov 29,2021
+# Loading work.Single_Cycle
+# Loading work.PC
+# Loading work.DMEM
+# Loading work.register
+# Loading work.riscV_ALU
+# Loading work.IMEM
+# Loading work.ROMControl
+# Loading work.Imm_Gen
+# Loading work.branch
+# Loading work.mux2
+# Loading work.mux4
+# Loading work.PC_Plus_4
+# Compile of branch.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of Imm_Gen.v was successful.
+# Compile of mux2.v was successful.
+# Compile of mux4.v was successful.
+# Compile of PC.v was successful.
+# Compile of PC_Plus_4.v was successful.
+# Compile of register.v was successful.
+# Compile of riscV_ALU.v was successful.
+# Compile of ROMControl.v was successful.
+# Compile of Single_Cycle.v was successful.
+# Compile of test.v was successful.
+# 13 compiles, 0 failed with no errors.
+add wave -position insertpoint  \
+sim:/Single_Cycle/clk
+add wave -position insertpoint  \
+sim:/Single_Cycle/out_ctrl_memrw
+# Compile of branch.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of Imm_Gen.v was successful.
+# Compile of mux2.v was successful.
+# Compile of mux4.v was successful.
+# Compile of PC.v was successful.
+# Compile of PC_Plus_4.v was successful.
+# Compile of register.v was successful.
+# Compile of riscV_ALU.v was successful.
+# Compile of ROMControl.v was successful.
+# Compile of Single_Cycle.v was successful.
+# Compile of test.v was successful.
+# 13 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Single_Cycle
+# Loading work.PC
+# Loading work.DMEM
+# Loading work.register
+# Loading work.riscV_ALU
+# Loading work.IMEM
+# Loading work.ROMControl
+# Loading work.Imm_Gen
+# Loading work.branch
+# Loading work.mux2
+# Loading work.mux4
+# Loading work.PC_Plus_4
+add wave -position insertpoint  \
+sim:/Single_Cycle/num_pulse
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 19:20:46 on Nov 29,2021, Elapsed time: 0:05:00
+# Errors: 0, Warnings: 1

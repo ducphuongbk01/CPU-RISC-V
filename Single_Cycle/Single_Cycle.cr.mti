@@ -1,0 +1,92 @@
+E:/ModelSim/Single_Cycle/register.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} E:/ModelSim/Single_Cycle/branch.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/branch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module branch
+
+Top level modules:
+	branch
+
+} {} {}} E:/ModelSim/Single_Cycle/PC.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} E:/ModelSim/Single_Cycle/mux2.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/mux2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} E:/ModelSim/Single_Cycle/mux4.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/mux4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} E:/ModelSim/Single_Cycle/ROMControl.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/ROMControl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROMControl
+
+Top level modules:
+	ROMControl
+
+} {} {}} E:/ModelSim/Single_Cycle/IMEM.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/IMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}} E:/ModelSim/Single_Cycle/test.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_mux2
+
+Top level modules:
+	tb_mux2
+
+} {} {}} E:/ModelSim/Single_Cycle/riscV_ALU.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/riscV_ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module riscV_ALU
+
+Top level modules:
+	riscV_ALU
+
+} {} {}} E:/ModelSim/Single_Cycle/Single_Cycle.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/Single_Cycle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Single_Cycle
+
+Top level modules:
+	Single_Cycle
+
+} {} {}} E:/ModelSim/Single_Cycle/PC_Plus_4.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/PC_Plus_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PC_Plus_4
+
+Top level modules:
+	PC_Plus_4
+
+} {} {}} E:/ModelSim/Single_Cycle/DMEM.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/DMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}} E:/ModelSim/Single_Cycle/Imm_Gen.v {1 {vlog -work work -stats=none E:/ModelSim/Single_Cycle/Imm_Gen.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Imm_Gen
+
+Top level modules:
+	Imm_Gen
+
+} {} {}}

@@ -1,0 +1,439 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/ModelSim/Forwarding
+vbranch
+!s110 1638186289
+!i10b 1
+!s100 M=hXmRR6d0CeC[hWii?fc1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`OfFdGZ:^HIT1^?YKB5Uj0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dE:/ModelSim/Pipeline
+w1633388272
+8E:/ModelSim/Pipeline/branch.v
+FE:/ModelSim/Pipeline/branch.v
+!i122 2913
+Z3 L0 1 44
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1638186289.000000
+!s107 E:/ModelSim/Pipeline/branch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/branch.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vbranch_Decision
+Z8 !s110 1638186290
+!i10b 1
+!s100 @@HZPf7H6o[;lWz7_KjB]0
+R0
+I:QYV>?T@ncARSY[i?LDac1
+R1
+R2
+w1637771358
+8E:/ModelSim/Pipeline/branch_Decision.v
+FE:/ModelSim/Pipeline/branch_Decision.v
+!i122 2914
+L0 1 223
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/ModelSim/Pipeline/branch_Decision.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/branch_Decision.v|
+!i113 1
+R6
+R7
+nbranch_@decision
+vDMEM
+R8
+!i10b 1
+!s100 zFidK1BHECdnkHF9TKohc1
+R0
+I:R3=_1DOoj[8TD8GbRToD0
+R1
+R2
+w1637725837
+8E:/ModelSim/Pipeline/DMEM.v
+FE:/ModelSim/Pipeline/DMEM.v
+!i122 2915
+L0 1 48
+R4
+r1
+!s85 0
+31
+Z9 !s108 1638186290.000000
+!s107 E:/ModelSim/Pipeline/DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/DMEM.v|
+!i113 1
+R6
+R7
+n@d@m@e@m
+vEX_MEM
+R8
+!i10b 1
+!s100 zlieG9==mEU2ch@lz9H>O0
+R0
+I8^8LiV_R0YnK5PB1i06ET3
+R1
+R2
+w1637718291
+8E:/ModelSim/Pipeline/EX_MEM.v
+FE:/ModelSim/Pipeline/EX_MEM.v
+!i122 2916
+L0 1 55
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/ModelSim/Pipeline/EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/EX_MEM.v|
+!i113 1
+R6
+R7
+n@e@x_@m@e@m
+vForwarding
+R8
+!i10b 1
+!s100 @I>4z=SDnQUdY[CB1Jl091
+R0
+IZN>>1WWfeWAgL0ecW<]U91
+R1
+R2
+w1638161343
+8E:/ModelSim/Pipeline/Forwarding.v
+FE:/ModelSim/Pipeline/Forwarding.v
+!i122 2917
+L0 1 217
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/ModelSim/Pipeline/Forwarding.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/Forwarding.v|
+!i113 1
+R6
+R7
+n@forwarding
+vID_EX
+Z10 !s110 1638186291
+!i10b 1
+!s100 IUNDZe?35olFE@=@aS[UO3
+R0
+Ihc_0:FdQb2CGcn3F;i^`92
+R1
+R2
+w1637718273
+8E:/ModelSim/Pipeline/ID_EX.v
+FE:/ModelSim/Pipeline/ID_EX.v
+!i122 2918
+L0 1 75
+R4
+r1
+!s85 0
+31
+R9
+!s107 E:/ModelSim/Pipeline/ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/ID_EX.v|
+!i113 1
+R6
+R7
+n@i@d_@e@x
+vIF_ID
+R10
+!i10b 1
+!s100 ^nQ3642:nWPA`[`4aTMMb3
+R0
+I@0Lk0:V:8_;j=8A4VJi6l3
+R1
+R2
+w1637718254
+8E:/ModelSim/Pipeline/IF_ID.v
+FE:/ModelSim/Pipeline/IF_ID.v
+!i122 2919
+Z11 L0 1 24
+R4
+r1
+!s85 0
+31
+Z12 !s108 1638186291.000000
+!s107 E:/ModelSim/Pipeline/IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/IF_ID.v|
+!i113 1
+R6
+R7
+n@i@f_@i@d
+vIMEM
+R10
+!i10b 1
+!s100 Vz?GfZK`Gi=:9dXE2oJP`2
+R0
+I[11Z5MDBZcWX?XAT@5JgH3
+R1
+R2
+w1638154107
+8E:/ModelSim/Pipeline/IMEM.v
+FE:/ModelSim/Pipeline/IMEM.v
+!i122 2920
+L0 1 23
+R4
+r1
+!s85 0
+31
+R12
+!s107 E:/ModelSim/Pipeline/IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/IMEM.v|
+!i113 1
+R6
+R7
+n@i@m@e@m
+vImm_Gen
+Z13 !s110 1638186292
+!i10b 1
+!s100 aVi^7fJo3@_AD==15>aLT1
+R0
+IeO[@j4QM;ZjSmVX8`P?4:0
+R1
+R2
+w1633866674
+8E:/ModelSim/Pipeline/Imm_Gen.v
+FE:/ModelSim/Pipeline/Imm_Gen.v
+!i122 2921
+L0 1 47
+R4
+r1
+!s85 0
+31
+R12
+!s107 E:/ModelSim/Pipeline/Imm_Gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/Imm_Gen.v|
+!i113 1
+R6
+R7
+n@imm_@gen
+vMEM_WB
+R13
+!i10b 1
+!s100 PTLFDmZRz0H<i;5Z@>E_>0
+R0
+INRaAVa6fY=EJIz6[W[<VI0
+R1
+R2
+w1637718307
+8E:/ModelSim/Pipeline/MEM_WB.v
+FE:/ModelSim/Pipeline/MEM_WB.v
+!i122 2922
+L0 1 30
+R4
+r1
+!s85 0
+31
+Z14 !s108 1638186292.000000
+!s107 E:/ModelSim/Pipeline/MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/MEM_WB.v|
+!i113 1
+R6
+R7
+n@m@e@m_@w@b
+vmux2
+R13
+!i10b 1
+!s100 LzD;f24PVjH_PK0jMPJY02
+R0
+IbVPCo_LLCd27nIN@oo6bP3
+R1
+R2
+w1633359034
+8E:/ModelSim/Pipeline/mux2.v
+FE:/ModelSim/Pipeline/mux2.v
+!i122 2923
+L0 1 14
+R4
+r1
+!s85 0
+31
+R14
+!s107 E:/ModelSim/Pipeline/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/mux2.v|
+!i113 1
+R6
+R7
+vmux4
+Z15 !s110 1638186293
+!i10b 1
+!s100 H=?H:_[@NCH<;0eE<HgMW1
+R0
+IB2X_j<[@ziQz[mzeH0S?[2
+R1
+R2
+w1636587364
+8E:/ModelSim/Pipeline/mux4.v
+FE:/ModelSim/Pipeline/mux4.v
+!i122 2924
+L0 1 21
+R4
+r1
+!s85 0
+31
+R14
+!s107 E:/ModelSim/Pipeline/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/mux4.v|
+!i113 1
+R6
+R7
+vPC
+R15
+!i10b 1
+!s100 CY3fj=k:W1kh`fGAZfz9<3
+R0
+IXIQ3Qod]oBILJ:Q1f@o8F1
+R1
+R2
+w1637811331
+8E:/ModelSim/Pipeline/PC.v
+FE:/ModelSim/Pipeline/PC.v
+!i122 2925
+R11
+R4
+r1
+!s85 0
+31
+Z16 !s108 1638186293.000000
+!s107 E:/ModelSim/Pipeline/PC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/PC.v|
+!i113 1
+R6
+R7
+n@p@c
+vPC_Plus_4
+R15
+!i10b 1
+!s100 E_78USVgdolc@DB>d]Ucz0
+R0
+IiUOeH18AXBaNWTH;PaKTl0
+R1
+R2
+w1633869166
+8E:/ModelSim/Pipeline/PC_Plus_4.v
+FE:/ModelSim/Pipeline/PC_Plus_4.v
+!i122 2926
+L0 1 7
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:/ModelSim/Pipeline/PC_Plus_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/PC_Plus_4.v|
+!i113 1
+R6
+R7
+n@p@c_@plus_4
+vPipeline
+Z17 !s110 1638186294
+!i10b 1
+!s100 az:@?f_P;`=Rab<BMgf;01
+R0
+I]K;X@=80<XmPKV?IY8aO81
+R1
+R2
+w1638177148
+8E:/ModelSim/Pipeline/Pipeline.v
+FE:/ModelSim/Pipeline/Pipeline.v
+!i122 2927
+L0 3 219
+R4
+r1
+!s85 0
+31
+R16
+!s107 E:/ModelSim/Pipeline/Pipeline.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/Pipeline.v|
+!i113 1
+R6
+R7
+n@pipeline
+vregister
+R17
+!i10b 1
+!s100 zK^Nj[UU9X?D^LeRWDC`P2
+R0
+IX:oMI2UoRk80TVEcK=oRX3
+R1
+R2
+w1637725823
+8E:/ModelSim/Pipeline/register.v
+FE:/ModelSim/Pipeline/register.v
+!i122 2928
+R3
+R4
+r1
+!s85 0
+31
+Z18 !s108 1638186294.000000
+!s107 E:/ModelSim/Pipeline/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/register.v|
+!i113 1
+R6
+R7
+vriscV_ALU
+R17
+!i10b 1
+!s100 4^BF134VNWVS@P1gOODGK3
+R0
+IYFXFo9FHfFKanY4ngeOYQ3
+R1
+R2
+w1636587910
+8E:/ModelSim/Pipeline/riscV_ALU.v
+FE:/ModelSim/Pipeline/riscV_ALU.v
+!i122 2929
+L0 1 29
+R4
+r1
+!s85 0
+31
+R18
+!s107 E:/ModelSim/Pipeline/riscV_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/riscV_ALU.v|
+!i113 1
+R6
+R7
+nrisc@v_@a@l@u
+vROMControl
+R17
+!i10b 1
+!s100 igF:P^R7]@G494@l;SYGj2
+R0
+IQ<?Oi4e^R]aKoPZM:kaIK0
+R1
+R2
+w1637728071
+8E:/ModelSim/Pipeline/ROMControl.v
+FE:/ModelSim/Pipeline/ROMControl.v
+!i122 2930
+L0 1 251
+R4
+r1
+!s85 0
+31
+R18
+!s107 E:/ModelSim/Pipeline/ROMControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim/Pipeline/ROMControl.v|
+!i113 1
+R6
+R7
+n@r@o@m@control
